@@ -10,6 +10,9 @@ namespace GitHubClient
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Wecome to my GitHub Manager!");
+
+            Console.ReadLine();
         }
     }
 }
